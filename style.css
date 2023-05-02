@@ -1,0 +1,28 @@
+@font-face {
+    font-family: PressStart2P;
+    src: url(./PressStart2P.ttf)
+}
+
+.timerBtn{
+    margin: 10px;
+    width: 80px;
+    height: 25px;
+    border: 2px solid;
+    border-radius: 5px;
+    background-color: rgb(28, 114, 153);
+    cursor: pointer;
+}
+
+#timeDisplay{
+    margin-top: 10px;
+    font-size: 55px;
+    font-family: PressStart2P;
+    color: rgb(20, 207, 145);
+}
+
+#timeContainer{
+    text-align: center;
+    border: 2px solid;
+    border-radius: 5px;
+    background-color: rgb(113, 149, 167);
+}
